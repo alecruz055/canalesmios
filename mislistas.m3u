@@ -1,0 +1,146 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14380b6fcd3d8d72b9a4003e0afd05be.webp",TELEMUNDO ACCION
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s",SONI CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO XTREME
+http://200.229.147.142:8000/play/a00t/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO2 HD
+http://200.229.147.142:8000/play/a00r/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxzhicMoo-B5zo4hi-8kTGAs68v3a-KRj7g&s", WARNER HD
+http://200.229.147.142:8000/play/a03e/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShSOhbv5hYY9kCbS2Epl4ZA1WsJqjwg6Voew&s",AXN HD
+http://200.229.147.142:8000/play/a027/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", Golden Premiere HD
+http://200.229.147.142:8000/play/a00g/index.m3u8
+
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a.jpg",D PELICULAS 
+http://200.229.147.142:8000/play/a080/index.m3u8
+
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://gritaradio.com/wp-content/uploads/2024/09/02caf636d493c514726744a06be779c2.png",SONY HD 
+http://200.229.147.142:8000/play/a022/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZURCHQTVCSkNqIY2MNKezeHsw__93b4yD1g&s",SPACE HD
+http://200.229.147.142:8000/play/a04p/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://sire-media-star.techops.disn.io/fox_es/custompage-main/680860.1024x576.jpg",STAR CHANNEL
+http://200.229.147.142:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgr_J316Qqh00qfH4p7THzL7u8F2veoFokqfZlv5_Oy2GGknfCNHdkc6CZyeLmlow64LrmL2ZuvGNEd5ZKuHtC9hXSpJVqyokDAPrCchMJg1fm2g7XP4mtlNjPy-rXP1I8sST1dupLM0/s1600/uni4.jpg",Universal
+http://200.229.147.142:8000/play/a01t/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO Family HD
+http://200.229.147.142:8000/play/a06q/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO HD
+http://200.229.147.142:8000/play/a00q/index.m3u8
+  
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO Plus HD
+http://200.229.147.142:8000/play/a00s/index.m3u8
+
+
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://play-lh.googleusercontent.com/zF8urZrMb8DwBf6Y0JZZnk6lpr-0cONuaBm4Apc8LH9UKmx-vhfatrTlnZEn3ewVPyxg", Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/featuredImage.jpg",Azteca Uno
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png",TELEMUNDO INTERNACIONAL
+http://200.229.147.142:8000/play/a01z/index.m3u8
+
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj", LIGA MX: CLARO SPORTS
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8aLL3PfRrnaj0tPg7m12LfnMuUTxw3ewJA&s",BUNDESLIGA
+http://200.229.147.142:8000/play/a05b/index.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png", FIFA plus
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp",AZTECA DEPORTES
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN 1
+http://38.49.128.38:8000/play/a092/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN 2
+http://45.181.122.46:8090/play/a01v
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN 2
+http://45.5.119.43:4000/play/a053/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN 5
+http://200.229.147.142:8000/play/a05y/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN 6
+http://200.229.147.142:8000/play/a04y/index.m3u8
+ 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN 8
+https://jmp2.uk/stvp-US34000040T
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://yt3.googleusercontent.com/OuKve41J-tBfaAWWfruNhofwhO3xCqMwwCHDSGWfPJasAeuLh7UoZweSMU57BsrHcnMumUbVEw=s900-c-k-c0x00ffffff-no-rj", TUDN USA
+https://dcs3-live.mp.lura.live/server/play/08B9B4TW61Rdc58j/manifest.m3u8?encp=zuvPJYoOOdEMDNF2j2mvmg:N2OOXmh9wfa3civuEGrTdnQzVN6KJw_4n9FoAMLcA3UPM32hOZahXZDo9VGE4qp2ctShs4E8hZSHSLYi3aecRFC6QGVV6kzLsVLPkS0fq-4vXFjGV6ONSYepsbhnqVG1&anvauth=tb=0~te=2147483000~sgn=3c466ba83c45a098f05dfac9206881e9d042b57942068ee403094cf98d69a55b&t=1746459401&an=%7B%7BappName%7D%7D&msid=%7B%7BappPackage%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&idtype=%7B%7BIFA_TYPE%7D%7D&rdid=%7B%7BDID%7D%7D&is_lat=%7B%7BDNT%7D%7D&ip=%7B%7BipAddr%7D%7D&user_agent=%7B%7BUserAgent%7D%7D
+
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BPYn14-_lMmj9nLaXcMTeKuglAZnFivq-A&s",FOX SPORT MX 1
+http://200.229.147.142:8000/play/a06a/index.m3u8
+ 
+
+ 
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BPYn14-_lMmj9nLaXcMTeKuglAZnFivq-A&s",FOX SPORTS MX 2
+http://200.229.147.142:8000/play/a06b/index.m3u8
+ 
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BPYn14-_lMmj9nLaXcMTeKuglAZnFivq-A&s",FOX SPORTS 1
+http://200.229.147.142:8000/play/a06a/index.m3u8
+ 
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BPYn14-_lMmj9nLaXcMTeKuglAZnFivq-A&s",FOX SPORTS 2
+http://200.229.147.142:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg",FIFA plus
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx1JoRQKnpfK2CpDq6cXk9oHzjwpczUaC88Q&s",Azteca Uno
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://play-lh.googleusercontent.com/oZLmiJyYNjfsw1D51y-mZGLFHUXcYuIeD_nfxVjj783qTPQDoO6ZiKm1CbXVZTQcRUXk=w240-h480-rw", Imagen tv
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+
+#EXTINF:-1 group-title="MEXICO", Azteca 7
+http://tv.teleclub.xyz/club/server_2/mundo/azteca7/index.m3u8
+
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/03/disney-channel-logo.jpg",Disney
+http://200.229.147.142:8000/play/a044/index.m3u8
+ 
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/03/disney-channel-logo.jpg",Disney JR
+http://200.229.147.142:8000/play/a012/index.m3u8
+  
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg03tGdzwFGhIq7SRC3sV5Bq7NlnGooNe9RQ&s",CARTOON NETWORK HD
+http://200.229.147.142:8000/play/a00p/index.m3u8
+
+
+
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://st1.uvnimg.com/5c/37/c13e4369bc260055fc787d9cd884/descarga.jpg", Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+ 
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9zUCwzQEpwfD6CWG6NSFRATtdh2O9ldn5dQ&s", TELEMUNDO
+http://200.229.147.142:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Las_Estrellas_logo_%282016%29.svg",Las Estrellas HD
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
